@@ -1,0 +1,1306 @@
+[
+  {
+    "titulo": "S01A",
+    "preguntas": [
+      {
+        "pregunta": "El primer medio de almacenamiento masivo de datos aplicado a la computación es",
+        "respuestas": [
+          "el disco magnético",
+          "el disco flexible",
+          "la tarjeta perforadora [v]",
+          "la cassette"
+        ]
+      },
+      {
+        "pregunta": "Ordenados de más a menos capacidad de almacenamiento, discos flexibles de tamaño aproximado de",
+        "respuestas": [
+          "8, 5 y 3 Mbytes",
+          "3, 5 y 8 pulgadas [v]",
+          "8, 5 y 3 pulgadas",
+          "5, 3 y 8 pulgadas"
+        ]
+      },
+      {
+        "pregunta": "La tecnología magnética aplicada al almacenamiento masivo de datos se aplica a",
+        "respuestas": [
+          "salvo a las tarjetas perforadas, a todos",
+          "discos duros, discos flexibles y discos flash",
+          "discos duros y flexibles [v]",
+          "CD, DVD y Blu Ray"
+        ]
+      },
+      {
+        "pregunta": "Antes de la llegada de la tecnología basada en bases de datos, la definición del fichero estaba incluida en el código de los programas por lo que un cambio de un dato en todos los programas que usan ese fichero obligan a",
+        "respuestas": [
+          "recompilar [v]",
+          "recodificar [v]",
+          "reenlazar [v]",
+          "reversionar"
+        ]
+      },
+      {
+        "pregunta": "Los problemas detectados en los sistemas de ficheros antes de la llegada de las técnicas de bases de datos se pueden resumir en",
+        "respuestas": [
+          "los programas dependen de los datos",
+          "los programas dependen de datos que no usan [v]",
+          "seguridad insuficiente [v]",
+          "redundancia de datos [v]"
+        ]
+      },
+      {
+        "pregunta": "Hablando del almacenamiento persistente de datos en computación, por seguridad entendemos",
+        "respuestas": [
+          "dependencia de los programas de datos que no usan",
+          "autorizaciones [v]",
+          "acceso simultáneo a los mismos datos [v]",
+          "recuperación ante desastres [v]"
+        ]
+      },
+      {
+        "pregunta": "La crisis del software, entre otras, tenía las siguientes características",
+        "respuestas": [
+          "los proyectos eran demasiado pequeños",
+          "los programadores no trabajaban lo suficiente",
+          "el software era ineficiente [v]",
+          "el software a menudo no cumplía con los requerimientos [v]"
+        ]
+      },
+      {
+        "pregunta": "La crisis del software, entre otras, tenía las siguientes características",
+        "respuestas": [
+          "los proyectos no se explicaban bien",
+          "el software se programaba en Cobol",
+          "los proyectos se hacían inmanejables y el código difícil de mantener [v]",
+          "el software tenía baja calidad [v]"
+        ]
+      },
+      {
+        "pregunta": "La crisis del software, entre otras, tenía las siguientes características",
+        "respuestas": [
+          "el presupuesto inicial se superaba con creces [v]",
+          "los proyectos no eran trasladables o traducibles a código máquina",
+          "los proyectos se terminaban fuera de plazo [v]",
+          "la ingeniería del software no servía"
+        ]
+      }
+    ]
+  },
+      {
+        "titulo" :  "S01B",
+        "preguntas" : [
+          {"pregunta": "Por persistencia entendemos",
+        "respuestas": [
+          "que el disco duro no se apaga nunca, en todo caso se deja en suspensión",
+          "el almacenamiento conceptual",
+          "apagar el ordenador y que el día siguiente pueda recuperar los datos almacenados ayer [v]",
+          "almacenar la información para su posterior recuperación y proceso [v]"
+        ]
+      },
+      {
+        "pregunta": "La persistencia de datos",
+        "respuestas": [
+          "se soluciona con ficheros [v]",
+          "no tiene nada que ver con los ficheros electrónicos",
+          "no afecta a la recuperación y proceso de esos datos",
+          "se soluciona en la parte física de una base de datos [v]"
+        ]
+      },
+      {
+        "pregunta": "La persistencia de datos se soporta con",
+        "respuestas": [
+          "almacenamiento primario",
+          "discos magnéticos y ópticos [v]",
+          "tarjetas perforadas y cintas magnéticas [v]",
+          "memoria RAM"
+        ]
+      },
+      {
+        "pregunta": "La persistencia se relaciona con",
+        "respuestas": [
+          "el almacenamiento cuaternario",
+          "el almacenamiento primario",
+          "el almacenamiento secundario [v]",
+          "el almacenamiento terciario [v]"
+        ]
+      },
+      {
+        "pregunta": "Por almacenamiento terciario o fuera de línea entendemos",
+        "respuestas": [
+          "las bases de datos",
+          "los discos ópticos y SSD [v]",
+          "los discos magnéticos y cintas [v]",
+          "los ficheros"
+        ]
+      },
+      {
+        "pregunta": "Son dispositivos secuenciales",
+        "respuestas": [
+          "el disco magnético",
+          "el disco flash",
+          "la cinta [v]",
+          "la tarjeta perforada [v]"
+        ]
+      },
+      {
+        "pregunta": "Son dispositivos aleatorios",
+        "respuestas": [
+          "el disco flash [v]",
+          "la cinta",
+          "la tarjeta perforada",
+          "el disco magnético [v]"
+        ]
+      },
+      {
+        "pregunta": "En el disco magnético son importantes los tiempos de",
+        "respuestas": [
+          "transferencia de bloque [v]",
+          "búsqueda [v]",
+          "latencia [v]",
+          "envío"
+        ]
+      },
+      {
+        "pregunta": "El direccionamiento dentro de un disco duro incluye",
+        "respuestas": [
+          "cilindro [v]",
+          "cabezal [v]",
+          "sector [v]",
+          "byte"
+        ]
+      },
+      {
+        "pregunta": "Los registros pueden tener longitud",
+        "respuestas": [
+          "escasa",
+          "mixta [v]",
+          "fija [v]",
+          "variable [v]"
+        ]
+      },
+      {
+        "pregunta": "Los registros de longitud variable",
+        "respuestas": [
+          "utilizan marcas para señalar el inicio y fin de los campos [v]",
+          "no son recomendables si el objetivo es una recuperación de datos fiable",
+          "gastan más espacio que los de longitud fija por culpa de las marcas de campo",
+          "optimizan el espacio [v]"
+        ]
+      },
+      {
+        "pregunta": "Los registros de longitud fija",
+        "respuestas": [
+          "nunca debería utilizarse con la tecnología actual",
+          "facilitan la recuperación de registros concretos [v]",
+          "también necesitan marcas para identificar el final del registro",
+          "rellenan el espacio vacío con blancos [v]"
+        ]
+      },
+      {
+        "pregunta": "Si en un fichero con organización hash hemos reservado espacio para 13 registros y utilizamos la fórmula h = nmod 13 + 1 para posicionar cualquier nuevo registro, siendo n la clave de indexación y de tipo entero",
+        "respuestas": [
+          "los registros identificados por 5 y 18 colisionarán en la misma posición [v]",
+          "si inserto, en este orden, el registro con clave 5 y el 18, el 5 ocupará la primera posición física del fichero y el 18 la segunda",
+          "si ya tengo un registro con clave 5, insertar el 18 provocará el uso del área de desbormiento [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "En las operaciones con datos en almacenamiento secundario",
+        "respuestas": [
+          "Mac OS y Sun solo utilizan almacenamiento primario",
+          "aunque se trabaje con un registro, el disco se procesa por bloques o páginas [v]",
+          "si quiero recuperar un único byte, el sistema operativo no me proporciona herramienta alguna, tengo que especificar dentro del programa el cabezal, cilindro y sector del disco",
+          "antes hay que transferir la información desde el almacenamiento secundario al primario [v]"
+        ]
+      },
+      {
+        "pregunta": "La organización secuencial ordenada",
+        "respuestas": [
+          "optimiza el espacio",
+          "es la peor para obtener un listado ordenado por el campo clave",
+          "es la mejor para obtener un listado ordenado por cualquier campo",
+          "obliga a una reorganización del fichero cada vez que quiero insertar un registro intermedio [v]"
+        ]
+      },
+      {
+        "pregunta": "La organización secuencial pura",
+        "respuestas": [
+          "es la mejor para obtener un listado ordenado por cualquier campo",
+          "optimiza la búsqueda de registros concretos",
+          "obliga a una reorganización del fichero cada vez que quiero insertar un registro intermedio",
+          "es la mejor para añadir nuevos registros [v]"
+        ]
+      },
+      {
+        "pregunta": "Mis datos requieren actualizaciones, borrados e inserciones frecuentes, y listados ordenados por cualquier criterio, y la cantidad de registros puede variar enormemente, por lo tanto elegiré una organización",
+        "respuestas": [
+          "secuencial ordenada",
+          "hash",
+          "indexada [v]",
+          "secuencia"
+        ]
+      },
+      {
+        "pregunta": "La organización aleatoria calculada (hash)",
+        "respuestas": [
+          "los registros están, siempre, ordenados físicamente por un campo clave",
+          "necesitan ficheros auxiliares para acceder mediante el valor clave y , después, direccionar al fichero principal de datos",
+          "pueden necesitar registros o áreas de desbordamiento [v]",
+          "me optimiza, en tiempo, los listados ordenados por un campo cualquiera"
+        ]
+      },
+      {
+        "pregunta": "Un índice denso",
+        "respuestas": [
+          "no pueden ser multinivel",
+          "requiere que el fichero de datos esté ordenado por un campo clave [v]",
+          "estructuran los registros en forma de árbol",
+          "es un índice con muchos datos"
+        ]
+      },
+      {
+        "pregunta": "La organización indexada se basa en la idea de que",
+        "respuestas": [
+          "la selección de un campo cualquiera para la ordenacón de listados de datos es necesaria solo en muy contados casos",
+          "es más fácil manejar archivos pequeños que incluso podrían caber en RAM para encontrar un registro concreto [v]",
+          "no me preocupa el espacio ocupado en el disco",
+          "no se necesita insertar con demasiada frecuencia"
+        ]
+      },
+      {
+        "pregunta": "La búsqueda binaria",
+        "respuestas": [
+          "solo se aplica a ficheros aleatorios",
+          "es eficiente con ficheros desordenados",
+          "es uno de los algoritmos habituales de búsqueda [v]",
+          "solo se aplica a los ficheros de datos, no a los de índice, si esta fuera la organización del fichero"
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "T2A",
+    "preguntas": [
+      {
+        "pregunta": "El propósito de los modelos de datos es",
+        "respuestas": [
+          "proporcionar las herramientas necesarias para modelar un sistema de información [v]",
+          "permitir obtener un esquema como representación de un sistema eliminando detalles irrelevantes [v]",
+          "definir un lenguaje de programación como C, PHP o Java",
+          "introducir la definición de los ficheros dentro del código de programa"
+        ]
+      },
+      {
+        "pregunta": "Un modelo de datos es",
+        "respuestas": [
+          "casi lo podemos resumir en que es un lenguaje [v]",
+          "Una fase más del desarrollo del software como el análisis, el diseño y la implementación",
+          "un esquema conceptual",
+          "a herramienta intelectual que nos permite estructurar los datos de forma que se capte la semántica de los mismos [v]"
+        ]
+      },
+      {
+        "pregunta": "El esquema es",
+        "respuestas": [
+          "una descripción de un sistema concreto [v]",
+          "un lenguaje de programación como C, PHP o Java",
+          "el resultado de aplicar un determinado modelo de datos [v]",
+          "una descripción de ficheros"
+        ]
+      },
+      {
+        "pregunta": "En el ciclo de desarrollo de software",
+        "respuestas": [
+          "hay seis fases: análisis, esquema conceptual, diseño, esquema lógico, implementación y esquema físico [v]",
+          "el análisis es la primera fase [v]",
+          "la implementación es el primer paso",
+          "es habitual generar tres esquemas: conceptual, lógico y físico [v]"
+        ]
+      },
+      {
+        "pregunta": "En cuanto a los esquemas resultado de las distintas fases de desarrollo de software",
+        "respuestas": [
+          "ninguno depende de otro, el lógico no depende del conceptual, el físico no depende del conceptual, etc",
+          "el esquema conceptual se genera teniendo en cuenta que se va trabajar en una base de datos",
+          "el esquema físico es lo más cercano al disco duro, al mantenimiento de ficheros [v]",
+          "el esquema conceptual NO depende de una máquina y software concreta [v]"
+        ]
+      },
+      {
+        "pregunta": "El lenguaje de definición de datos",
+        "respuestas": [
+          "me permite construir un esquema de, por ejemplo, una base de datos relacional [v]",
+          "puede ser navegacional o de especificación",
+          "tiene como algunos de sus cometidos principales permitir la inserción y modificación de registros",
+          "es parte de la definición del modelo de datos [v]"
+        ]
+      },
+      {
+        "pregunta": "Un modelo de datos es",
+        "respuestas": [
+          "una teoría de especificación describiendo como una base de datos se estructura y se usa [v]",
+          "un esquema de base datos como, por ejemplo, el de TiendaOnLine",
+          "todo aquello que se pueda consultar con una orden select",
+          "una base de datos ejemplo para todas las demás"
+        ]
+      },
+      {
+        "pregunta": "UML",
+        "respuestas": [
+          "significa Lenguaje de Múltiples Usos",
+          "es el modelo de datos usado para describir las tablas de las prácticas de la asignatura",
+          "es un lenguaje de modelado estandarizado y de propósito general en la ingeniería del software [v]",
+          "es un lenguaje textual, NO gráfico"
+        ]
+      },
+      {
+        "pregunta": "Los sistemas de información",
+        "respuestas": [
+          "describen los datos conceptualmente",
+          "son modelos de datos",
+          "tienen como principal función manejar grandes volúmenes de datos tanto estructurados como no estructurados [v]",
+          "generan lenguajes de definición y manipulación de datos"
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "T2B",
+    "preguntas": [
+      {
+        "pregunta": "El entidad-relación",
+        "respuestas": [
+          "es un lenguaje gráfico [v]",
+          "es un lenguaje textual, NO gráfico",
+          "es un modelo de datos de propósito particular",
+          "es un modelo de datos semántico [v]"
+        ]
+      },
+      {
+        "pregunta": "El entidad-relación",
+        "respuestas": [
+          "es semántico y el modelo relacional es clásico [v]",
+          "es el modelo de datos subyacente en el motor de MySQL, Oracle y SQL Server",
+          "genera esquemas físicos",
+          "tiene una relación estrecha con el modelo relacional [v]"
+        ]
+      },
+      {
+        "pregunta": "El entidad-relación",
+        "respuestas": [
+          "es semántico y gráfico [v]",
+          "define ficheros, registros y campos",
+          "no sirve para describir otra cosa que no sea una base de datos",
+          "no tiene sistemas de gestión de bases de datos basados en él [v]"
+        ]
+      },
+      {
+        "pregunta": "Según este esquema E-R ",
+        "respuestas": [
+          "los usuarios siempre tienen email, dni, nombre y apellidos [v]",
+          "todos los usuarios deben haber pedido algo",
+          "los usuarios pueden pedir todos los artículos existentes, si quieren [v]",
+          "los usuarios solo pueden pedir N artículos, donde N es un valor indeterminado entre 0 y 1"
+        ]
+      },
+      {
+        "pregunta": "Según este esquema E-R ",
+        "respuestas": [
+          "imagen es un atributo multivaluado",
+          "los artículos pueden no tener marca de fabricante [v]",
+          "muchos artículos puede ser fabricados por la misma marca [v]",
+          "todos los artículos tienen marca de fabricante"
+        ]
+      },
+      {
+        "pregunta": "Según este esquema E-R ",
+        "respuestas": [
+          "los usuarios pueden tener varias localidades de residencia, la principal y la de veraneo, por ejemplo",
+          "los usuarios se identican por su DNI",
+          "los usuarios siempre viven en al menos una localidad [v]",
+          "las localidades pueden NO tener habitantes [v]"
+        ]
+      },
+      {
+        "pregunta": "En E-R, la generalización",
+        "respuestas": [
+          "permite que los objetos especializados mantengan atributos propios y exclusivos [v]",
+          "los objetos especializados no tienen identificador y, por lo tanto, puede haber duplicados",
+          "siempre tiene que tener al menos 2 clases de objetos especializadas",
+          "representa una relación de herencia, X es-un Y [v]"
+        ]
+      },
+      {
+        "pregunta": "En E-R, la agregación",
+        "respuestas": [
+          "no admite atributos multivaluados",
+          "no es más que un caso particular de la agregación general de cualquier modelo de datos [v]",
+          "consiste en encontrar subtipos dentro de una clase de objetos general",
+          "permite relacionar entidades con otra relación [v]"
+        ]
+      },
+      {
+        "pregunta": "En E-R, la generalización",
+        "respuestas": [
+          "es una representación de subtipos de una clase de objetos general. [v]",
+          "puede ser al mismo tiempo parcial, total, disjunta y solpada",
+          "se define siempre con propiedades de cobertura [v]",
+          "si es parcial no es disjunta. y si es total no es solapada"
+        ]
+      },
+      {
+        "pregunta": "Son notaciones distintas del E-R",
+        "respuestas": [
+          "por entidades",
+          "por ficheros",
+          "por tablas",
+          "Crow's foot [v]"
+        ]
+      },
+      {
+        "pregunta": "En cuanto a las distintas notaciones del E-R",
+        "respuestas": [
+          "no es cierto, solo hay una única notación",
+          "nos da igual, podremos obtener un esquema equivalente en cada una de ellas [v]",
+          "nos referimos al nombre que le daremos al esquema de base de datos",
+          "unas sirven para el esquema conceptual, otras para el lógico y otras para el físico"
+        ]
+      },
+      {
+        "pregunta": "Son notaciones distintas del E-R",
+        "respuestas": [
+          "UML [v]",
+          "entidad, atributo y relación",
+          "conceptual, lógica y física",
+          "jerárquica, en red y relacional"
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "T3A",
+    "preguntas": [
+      {
+        "pregunta": "El modelo relacional fue desarrollado teóricamente por",
+        "respuestas": [
+          "Codd [v]",
+          "Elmasri",
+          "Chen",
+          ""
+        ]
+      },
+      {
+        "pregunta": "El concepto de relación matemática se adapta al modelo relacional",
+        "respuestas": [
+          "permitiendo que las tuplas puedan repetirse y que las relaciones no estén obligadas a tener clave primaria",
+          "creando los conceptos de clave alternativa y clave ajena",
+          "asignando un nombre simbólico a los componentes de las tuplas de la relación [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La definición de relaciones (tablas) en una BD relacional establece las propiedades (del sistema de información que representan)",
+        "respuestas": [
+          "de registros",
+          "estáticas [v]",
+          "dinámicas",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La definición de tablas en un SGBD relacional constituye",
+        "respuestas": [
+          "el estado de la base de datos",
+          "el esquema de la base de datos [v]",
+          "la cardinalidad de la base de datos",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Si como producto de la adaptación del concepto de relación matemática al modelo relacional decimos que la relación tiene intensión y extensión, la segunda se define como",
+        "respuestas": [
+          "un conjunto de dominios no necesariamente disjuntos",
+          "el conjunto de n-tuplas, donde cada tupla es un conjunto de pares (nombreAtributo: valor) [v]",
+          "un conjunto de nombres de atributos distintos, cada uno de ellos asociado a su dominio correspondiente",
+          ""
+        ]
+      },
+      {
+        "pregunta": "De dominios en el modelo relacional y tipos de datos en lenguajes de programación, sistemas de gestión de bases de datos, etc",
+        "respuestas": [
+          "son lo mismo",
+          "los dominios se usan en el cálculo relacional de dominios y los tipos de datos en el de tuplas",
+          "los tipos de datos son casos particulares de dominios [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Para adaptar el concepto de relación matemática al modelo relacional, Codd tuvo que",
+        "respuestas": [
+          "poner nombre a los dominios que constituyen la relación [v]",
+          "poner orden a los dominios que forman la relación",
+          "proponer el álgebra relacional como un lenguaje de manipulación de datos",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una tabla en el modelo relacional",
+        "respuestas": [
+          "cada columna debe contener un identificador",
+          "no puede tener filas duplicadas [v]",
+          "define claramente el orden de sus filas",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Un dominio, en la teoría del modelo relacional es",
+        "respuestas": [
+          "un conjunto de valores escalares [v]",
+          "un producto cartesiano de n valores",
+          "nada más que un tipo de datos de los habituales en los lenguajes de programación",
+          ""
+        ]
+      },
+      {
+        "pregunta": "la definición de la relación matemática por intensión, después de su adaptación al modelo relacional es equivalente a su",
+        "respuestas": [
+          "contenido",
+          "cardinalidad",
+          "esquema [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Los dominios que definen la relación como estructura del modelo relacional no son tipos de datos estándar de computación",
+        "respuestas": [
+          "los dominios son tablas que se definen como un subconjunto del producto cartesiano de n tipos de datos",
+          "los dominios son un subconjunto de los tipos de datos",
+          "si acaso se pueden reformular como tipos de datos definidos por el usuario [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "El concepto matemático de tupla, como consecuencia del concepto de relación matemática (antes de su adaptación al modelo relacional), implica que",
+        "respuestas": [
+          "no existe un orden entre las componentes de la tupla",
+          "se puede referenciar una componente por su posición dentro de la tupla o por su nombre",
+          "sólo existe una forma de referenciar una componente dentro de la tupla [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "El modelo relacional no recoge el concepto de",
+        "respuestas": [
+          "clave primaria",
+          "atributo multivaluado [v]",
+          "agregación",
+          ""
+        ]
+      },
+      {
+        "pregunta": "El trabajar con un SGBD que siga el Modelo Relacional fielmente nos garantiza",
+        "respuestas": [
+          "que no hay redundancia de información",
+          "que en las tablas no hay tuplas duplicadas [v]",
+          "la posibilidad de utilizar columnas multivaluadas",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Para el Modelo Relacional, la no duplicidad de tuplas",
+        "respuestas": [
+          "garantiza siempre la existencia de una clave primaria y una clave alternativa distintas",
+          "es una restricción implícita por el tipo de estructura en la que se basa el modelo [v]",
+          "es una restricción que se deriva del hecho de que en toda relación deba existir siempre al menos una clave candidata",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La relación matemática, antes de su adaptación al modelo relacional",
+        "respuestas": [
+          "tiene ordenadas sus tuplas y admite duplicados porque finalmente ha de traducirse a una tabla",
+          "no tiene orden entre las componente de sus tuplas ni duplicados",
+          "no tiene orden entre sus tuplas ni duplicados [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La intensión de una relación se refiere",
+        "respuestas": [
+          "a los datos que puede albergar en un instante de tiempo determinado",
+          "a su esquema [v]",
+          "a su cardinalidad",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "T3A2",
+    "preguntas": [
+      {
+        "pregunta": "Las correspondencias entre clases Card(A, r) = (2,3)",
+        "respuestas": [
+          "obligan a que cada miembro de A se vincule con dos o tres miembros de otra clase de objetos [v]",
+          "indican una generalización solapada en dos de sus tres especializaciones",
+          "no se pueden dar en ningún modelo de datos",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una especificación de correspondencia entre clases Card(T,x) = (1,N)",
+        "respuestas": [
+          "indica una generalización parcial y solapada",
+          "es imposible en un esquema de bases de datos relacionales [v]",
+          "se da cuando hay 2 claves ajenas, cada una en una tabla distinta, que \"trabajan\" para la misma relación \"x\"",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La integridad referencial en un SGBD relacional",
+        "respuestas": [
+          "se cumple si toda la clave ajena es nula o ningún atributo de la clave es nulo y la referencia es válida [v]",
+          "es la restricción que garantiza la no duplicidad de tuplas",
+          "se cumple en general para las restricciones de valor de los atributos",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Si todo valor de clave ajena ha de aparecer en la tabla a la que hace referencia, nos estamos refiriendo a",
+        "respuestas": [
+          "integridad referencial [v]",
+          "restricciones de cardinalidad mínima uno",
+          "integridad de clave",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una clave ajena en el modelo relacional",
+        "respuestas": [
+          "es un tipo de clave candidata",
+          "indica una asociación entre objetos [v]",
+          "nunca podrá estar formada por todos los atributos de una relación",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una restricción de correspondencia entre clases de objetos de cardinalidad mínima 3",
+        "respuestas": [
+          "nos dice que la ocurrencia del objeto estará presente en la agregación al menos tres veces [v]",
+          "indica la existencia de tres claves ajenas",
+          "no es real, nunca se puede dar en ningún sistema de información",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una generalización total y disjunta",
+        "respuestas": [
+          "no se puede representar en ningún modelo de datos",
+          "no existe, las generalizaciones sólo pueden ser parciales y solapadas",
+          "no se puede representar en el modelo relacional [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una clave candidata puede contener nulos",
+        "respuestas": [
+          "si no es, además, clave alternativa o primaria",
+          "si está compuesta por más de un atributo",
+          "nunca [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Si R es una relación compuesta por tres atributos R(A,B,C), que las claves candidatas sean irreducibles significa que",
+        "respuestas": [
+          "(A,C) y (A, B) pueden ser ambas claves candidatas [v]",
+          "(A,B) no puede ser clave candidata si (A) es clave ajena",
+          "(A,B,C) no puede ser clave candidata",
+          ""
+        ]
+      },
+      {
+        "pregunta": "En el modelo relacional, una clave primaria puede ser al mismo tiempo",
+        "respuestas": [
+          "alternativa",
+          "multivaluada",
+          "clave ajena [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una clave candidata (o parte de ella)",
+        "respuestas": [
+          "puede contener cadenas vacías [v]",
+          "no puede contener ni valores nulos ni cadenas vacías",
+          "puede contener valores nulos",
+          ""
+        ]
+      },
+      {
+        "pregunta": "En una tabla en el modelo relaciona",
+        "respuestas": [
+          "sólo pueden existir dos claves candidatas (una primaria y otra alternativa)",
+          "una clave candidata puede estar compuesta por varios atributos [v]",
+          "sólo puede existir una clave candidata",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La integridad de clave",
+        "respuestas": [
+          "no permite nulos en ninguna de las columnas de la clave primaria [v]",
+          "se aplica a la clave primaria pero no a la clave alternativa",
+          "exige que la clave ajena sea complemente nula o contenga un valor previamente almacenado en una clave primaria",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Si una tabla tiene 4 columnas, la cantidad máxima posible de claves candidatas es",
+        "respuestas": [
+          "4",
+          "6 [v]",
+          "8",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Al hablar de claves en el Modelo Relacional",
+        "respuestas": [
+          "una clave candidata de una relación siempre debe ser también clave ajena",
+          "una clave ajena de una relación R debe coincidir en el número de columnas con el de la clave primaria de R",
+          "una clave ajena de una relación R puede ser también la clave primaria de R [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Si una relación se define en función de sus atributos como R(a, b, c) y (a, b) es clave primaria",
+        "respuestas": [
+          "podría tener cuatro claves candidatas: la primaria antes mencionada y las alternativas (a, c), (b, c) y (c)",
+          "ya no se pueden definir más claves candidatas",
+          "tendrá como máximo tres claves candidatas [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Si una relación tiene más de una clave candidata",
+        "respuestas": [
+          "tendrán que coincidir todas las claves candidatas en número de columnas",
+          "tendrá también más de una clave ajena",
+          "cualquiera de las claves candidatas sirve para identificar las tuplas de la misma [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Sea R(a, b, c , d) una relación (tabla) con cuatro atributos (columnas) en la que se obvian otras definiciones necesarias",
+        "respuestas": [
+          "R puede tener como claves candidatas (a,c), (b,c) y (d) [v]",
+          "R no puede tener más de 4 claves candidatas",
+          "R puede tener como claves candidatas (a,c), (b,c) y (c,d,a)",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una clave candidata puede contener nulos",
+        "respuestas": [
+          "si también es clave ajena",
+          "nunca [v]",
+          "siempre que sea clave alternativa y no clave primaria",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Cuando decimos que no puede haber nulos en una clave primaria nos estamos refiriendo a",
+        "respuestas": [
+          "integridad de clave [v]",
+          "integridad referencial",
+          "integridad principa",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "T3B",
+    "preguntas": [
+      {
+        "pregunta": "Una relación 1:1",
+        "respuestas": [
+          "una única tabla sin claves ajenas pero con una clave primaria y otra alternativa",
+          "dos tablas más una tercera que aloja 2 claves ajenas a cada una de las anteriores, una como clave primaria y la otra como alternativa [v]",
+          "son dos tablas con una clave ajena en una de ellas que es, al mismo tiempo, clave alternativa",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Si tengo dos tablas definidas como A(a,b) CP(a) CAj(b) -> B VNN(a) B(c,d) CP(c) CAj(d) -> A VNN(d)",
+        "respuestas": [
+          "B.d no puede ser clave ajena porque la clave primaria a la que apunta se llama \"a\", A.a",
+          "tenemos 2 relaciones 1:N con restricción de existencia independientes: Card(A,r)=(0,N), Card(B,r)=(1,1) y Card(A,s)=(1,1), Card(B,s)=(0,N) [v]",
+          "se trata de una relación muchos a muchos con doble restricción de existencia, Card(A,r)=(1,N), Card(B,r)=(1,N)",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una relación 1:1 con una restricción de existencia",
+        "respuestas": [
+          "una única tabla sin claves ajenas pero con una clave primaria y otra alternativa",
+          "dos tablas más una tercera que aloja 2 claves ajenas a cada una de las anteriores, una como clave primaria y la otra como alternativa",
+          "son dos tablas con una clave ajena en una de ellas que es, al mismo tiempo, clave alternativa [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una relación 1:M con una restricción de existencia",
+        "respuestas": [
+          "son dos tablas con una clave ajena en una de ellas que es, al mismo tiempo, valor no nulo [v]",
+          "son dos tablas con una clave ajena en una de ellas que es, al mismo tiempo, clave alternativa",
+          "dos tablas más una tercera que aloja 2 claves ajenas a cada una de las anteriores, las dos componiendo la clave primaria",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una tercera tabla con dos claves ajenas que componen la clave primaria",
+        "respuestas": [
+          "es una relación uno a uno",
+          "es una relación uno a muchos",
+          "es una relación muchos a muchos [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una tercera tabla con dos claves ajenas, una de ellas clave primaria y la otra alternativa",
+        "respuestas": [
+          "es una relación muchos a muchos",
+          "es una relación uno a muchos",
+          "es una relación uno a uno [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una clave ajena que hace referencia a otra tabla, sin restricciones adicionales",
+        "respuestas": [
+          "es una relación muchos a muchos",
+          "es una relación uno a muchos [v]",
+          "es una relación uno a uno",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Si EMPLEADO y DEPARTAMENTO se relacionan de forma que un empleado sólo puede trabajar en un departamento como máximo, en modelo relacional se representaría como",
+        "respuestas": [
+          "una clave ajena en DEPARTAMENTO",
+          "una tercera tabla con una clave ajena a EMPLEADO que sea, al mismo tiempo, clave alternativa",
+          "una clave ajena en EMPLEADO [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Si 2 tablas se relacionan mediante una clave ajena en una de ellas que es al mismo tiempo clave alternativa, estamos hablando de",
+        "respuestas": [
+          "una relación uno a uno con restricción de existencia [v]",
+          "una relación uno a muchos con restricción de existencia",
+          "una relación uno a uno",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Si MARINO capitanea uno y sólo un BARCO, mientras que los BARCOS pueden NO tener capitán pero como mucho UN capitán",
+        "respuestas": [
+          "en la tabla MARINO hay una clave ajena sin restricciones",
+          "en la tabla MARINO hay una clave ajena que es, al mismo tiempo, clave alternativa [v]",
+          "en la tabla CAPITANEA hay dos claves ajenas, a MARINO y BARCO respectivamente, que componen la clave primaria",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Si una tabla A tiene una relación con otra tabla y la clave ajena está definida en en esa otra tabla",
+        "respuestas": [
+          "necesariamente tiene una restricción de existencia",
+          "nunca podrá tener restricción de existencia [v]",
+          "tendrá restricción de existencia si esa clave ajena no admite nulos",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Si no necesito que los coches tengan propietario pero sólo pueden tener uno, los propietarios sin restricciones",
+        "respuestas": [
+          "pondré 2 claves ajenas en una tercera tabla",
+          "pondré la clave ajena en propietarios",
+          "pondré la clave ajena en coches [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "QUIRÓFANO(código, sala) CP(código) MÉDICO(dni, nombre, qfno) CP(dni) CAj(qfano) >> QUIRÓFANO",
+        "respuestas": [
+          "Card(MÉDICO, sustituye) = (0,1) [v]",
+          "Card(QUIRÓFANO, sustituye) = (0,N) [v]",
+          "Card(QUIRÓFANO, sustituye) = (1,N)",
+          ""
+        ]
+      },
+      {
+        "pregunta": "QUIRÓFANO(código, sala, doctor) CP(código) CAj(doctor) >> MÉDICO VNN(doctor) MÉDICO(dni, nombre) CP(dni)",
+        "respuestas": [
+          "Card(QUIRÓFANO, manda) = (1,1) [v]",
+          "Card(MÉDICO, manda) = (0,1)",
+          "Card(MÉDICO, manda) = (0,N) [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "QUIRÓFANO(código, sala) CP(código) MÉDICO(dni, nombre) CP(dni) OPERA(qfno,doctor) CP(qfano,doctor) CAj(doctor) >> MÉDICO CAj(qfano) >> QUIRÓFANO",
+        "respuestas": [
+          "Card(MÉDICO, opera) = (1,1)",
+          "Card(MÉDICO, opera) = (0,N) [v]",
+          "Card(QUIRÓFANO, opera) = (0,N) [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "QUIRÓFANO(código, sala) CP(código) MÉDICO(dni, nombre) CP(dni) SUPERVISA(qfno,doctor) CP(qfano) CAlt(doctor) CAj(doctor) >> MÉDICO CAj(qfano) >> QUIRÓFANO",
+        "respuestas": [
+          "Card(MÉDICO, supervisa) = (0,N)",
+          "Card(QUIRÓFANO, supervisa) = (0,1) [v]",
+          "Card(MÉDICO, supervisa) = (0,1) [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "QUIRÓFANO(código, sala) CP(código) CAlt(sala) CAj(sala) >> SALA SALA(localizador, metros) CP(localizador)",
+        "respuestas": [
+          "Card(SALA, seubica) = (0,1) [v]",
+          "Card(QUIRÓFANO, seubica) = (0,1)",
+          "Card(QUIRÓFANO, seubica) = (1,1) [v]",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "T4",
+    "preguntas": [
+      {
+        "pregunta": "El álgebra relacional",
+        "respuestas": [
+          "está basado en la teoría de conjuntos [v]",
+          "está basado en los lenguajes de primer orden",
+          "está basado en el modelo relacional",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Para que dos relaciones sean compatibles en álgebra relacional",
+        "respuestas": [
+          "deben tener el mismo grado [v]",
+          "deben tener la misma cardinalidad",
+          "no es necesario que tengan ni la misma cardinalidad ni el mismo grado",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Las relaciones derivadas en álgebra relacional",
+        "respuestas": [
+          "no existen las relaciones derivadas en el álgebra relacional",
+          "no tienen nombre ni alias, ni tampoco nombre de columnas",
+          "no tienen nombre ni alias [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una relación derivada se define en el álgebra relacional como",
+        "respuestas": [
+          "una relación muchos a muchos entre dos tablas",
+          "la relación, tabla, resultado de operar en AR [v]",
+          "una relación con nombre",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Al efectuar una proyección de álgebra relacional en una tabla por una columna que NO sea clave candidata",
+        "respuestas": [
+          "puede provocar la aparición de duplicados de filas en la relación resultado",
+          "la proyección siempre se debe hacer con al menos una clave candidata en la lista de columnas especificada para la operación",
+          "dado que el resultado también es una relación, no es posible obtener duplicados de filas [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Al efectuar un producto cartesiano de álgebra relacional de una tabla por si misma",
+        "respuestas": [
+          "provoca de duplicados de tupla en la relación resultado, que no se darían si el producto fuera entre dos tablas diferentes",
+          "las columnas de la tabla derivada no tienen nombre",
+          "por definición, nunca produce duplicados de tuplas [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "El operador concatenación natural del álgebra relacional, para poderse ejecutar apropiadamente",
+        "respuestas": [
+          "necesita atributos con el mismo dominio pero no necesariamente con el mismo nombre",
+          "precisa de claves ajenas",
+          "necesita atributos con el mismo dominio y con el mismo nombre [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "En realidad, el operador división del álgebra relacional es una combinación de",
+        "respuestas": [
+          "diferencias, producto cartesiano y proyecciones [v]",
+          "no es combinación de nada, es una primitiva",
+          "selección, producto cartesiano y proyección",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La concatenación natural del álgebra relacional",
+        "respuestas": [
+          "sólo se puede utilizar si entre las dos tablas operando existe una clave ajena de una a otra",
+          "exige relaciones operando compatibles",
+          "siempre se puede expresar como una secuencia de producto cartesiano, selección y proyección [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La selección en álgebra relacional",
+        "respuestas": [
+          "da como resultado el conjunto de tuplas combinadas de dos relaciones",
+          "obtiene un subconjunto de atributos de una relación",
+          "obtiene un conjunto de tuplas en el que todas cumplen una condición establecida [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "En álgebra relacional, el producto cartesiano entre dos relaciones necesita",
+        "respuestas": [
+          "que éstas sean compatibles",
+          "que haya algún atributo con el mismo nombre y dominio en las dos tablas",
+          "no necesita nada, se puede hacer siempre que queramos [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "El nombre de las columnas del resultado de realizar una unión en álgebra relaciona",
+        "respuestas": [
+          "qson los mismos que los de la segunda relación",
+          "no importan porque las dos tablas deben tener los mismo nombres de columna y los mismos dominios en las mismas posiciones",
+          "son los mismos que los de la primera relación [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "En álgebra relacional, suponiendo que las columnas con el mismo nombre tienen los mismos dominios en cualquier tabla, y siendo T(a,b,c) y S(d,b,c,e), si efectúo T[a,b,c] DIVIDIDO (S[b,c]), el resultado es",
+        "respuestas": [
+          "una relación con una columna, R[a] [v]",
+          "una relación con 3 columnas R[a,b,c]",
+          "nada, esta expresión no es correcta",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una consulta en álgebra relacional que sea parecida a \"dame TODOS los vendedores de la provincia de Alicante\"",
+        "respuestas": [
+          "necesita el operador DIVISIÓN",
+          "no se puede hacer porque precisa hacer la cuenta de filas que hay en la tabla, y el álgebra relacional está muy limitado para contar, ordenar, etc",
+          "no necesita el operador DIVISIÓN [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Uno de los indicadores de la importancia del álgebra dentro del modelo relacional es",
+        "respuestas": [
+          "su potencia de cálculo",
+          "su uso en ciertos optimizadores de consultas [v]",
+          "que SQL, por ejemplo, no ofrece operadores como la unión, intersección o diferencia",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una de las diferencias entre el álgebra relacional y SQL o los cálculos relacionales es que",
+        "respuestas": [
+          "hay ciertas consultas a la base de datos que se pueden hacer en AR pero no en los otros",
+          "está mejor adaptado al modelo relacional que los otros",
+          "el AR es procedimental, establece una secuencia de operaciones, mientras que los otros son declarativos [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "El cálculo relacional es",
+        "respuestas": [
+          "lógico",
+          "declarativo [v]",
+          "procedimental",
+          ""
+        ]
+      },
+      {
+        "pregunta": "El álgebra relacional es",
+        "respuestas": [
+          "procedimental [v]",
+          "lógico",
+          "declarativo",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "T5",
+    "preguntas": [
+      {
+        "pregunta": "Para evitar redundancias en una base de datos relacional",
+        "respuestas": [
+          "la política adecuada para mantener la integridad referencial es la de anular, aunque a veces es decisión del diseñador emplear otra política",
+          "se aplica el proceso de normalización hasta obtener relaciones en 3FN (en la mayoría de los casos) [v]",
+          "las claves ajenas deben tener prevista la política adecuada ante operaciones de borrado",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La forma normal de Boyce-Codd en una relación R",
+        "respuestas": [
+          "se cumple siempre que haya una única clave candidata",
+          "se cumple cuando R está en tercera forma normal y tiene varias claves candidatas no solapadas [v]",
+          "no hace falta tratarla si R está ya en 3FN aunque no necesariamente en 2FN",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Un defecto de normalización en una base de datos relacional puede provocar anomalías",
+        "respuestas": [
+          "al borrar la información de una tupla, ya que se pueden estar borrando tuplas de otras tablas involuntariamente",
+          "al insertar información en una tabla, porque los datos insertados no se corresponderán con la realidad",
+          "al modificar la información de una tabla, ya que un cambio simple de un dato podría afectar a varias tuplas [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La dependencia funcional es",
+        "respuestas": [
+          "otra forma de denominar a la integridad referencial",
+          "una relación entre atributos de una tabla de tal forma que un valor de uno determina unívocamente el valor del otro [v]",
+          "una restricción del modelo que dice que las claves candidatas no admiten nulos, ni total ni parcialmente",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una relación en tercera forma normal con 3 atributos puede tener, como máximo",
+        "respuestas": [
+          "una clave candidata",
+          "seis claves candidatas",
+          "tres claves candidatas [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La normalización",
+        "respuestas": [
+          "no es necesaria aunque sí recomendable",
+          "se utiliza actualmente más como un criterio de calidad en el diseño [v]",
+          "es el mejor método para diseñar las bases de datos",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La primera forma normal garantiza que",
+        "respuestas": [
+          "no existan dependencias funcionales directas",
+          "no existan dependencias funcionales transitivas",
+          "los dominios contienen valores atómicos [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Una tabla en el modelo relacional",
+        "respuestas": [
+          "puede estar en tercera forma normal aunque no esté en primera",
+          "puede estar en tercera forma normal aunque no esté en segunda",
+          "sólo puede estar en tercera forma normal si lo está en primera y en segunda [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La forma normal de Boice-Codd",
+        "respuestas": [
+          "es condición necesaria para que una tabla esté en tercera forma normal cuando hay más de una clave candidata",
+          "se debe comprobar en tablas con dos o más claves candidatas [v]",
+          "se debe comprobar en tablas con una única clave candidata",
+          ""
+        ]
+      },
+      {
+        "pregunta": "En la normalización de tablas en modelo relacional se habla de atributos primos y no primos",
+        "respuestas": [
+          "solo los atributos no primos pueden causar problemas de 2FN y 2FN [v]",
+          "los atributos no primos son los que no pertenecen a ninguna clave candidata [v]",
+          "puede haber tablas sin ningún atributo primo",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La segunda forma normal persigue que",
+        "respuestas": [
+          "no haya claves alternativas",
+          "no haya dependencias funcionales incompletas [v]",
+          "no haya dependencias funcionales transitivas",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La tercera forma normal busca que",
+        "respuestas": [
+          "no haya dependencias funcionales transitivas [v]",
+          "no haya claves alternativas",
+          "no haya dependencias funcionales incompletas",
+          ""
+        ]
+      },
+      {
+        "pregunta": "La forma nomal Boyce-Codd intenta eliminar",
+        "respuestas": [
+          "aquellos determinantes que no son clave candidata [v]",
+          "las dependencias funcionales cíclicas (de A a b y de B a A, simultáneamente)",
+          "las claves alternativas",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Cuando decimos que un atributo es \"primo\" es porque",
+        "respuestas": [
+          "está \"aislado\", no depende ni determina funcionalmente de o a ningún otro atributo",
+          "también es un determinante",
+          "pertenece a una clave candidata [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Si A determina funcionalmente a B, B a C, y C a A, siendo estos los únicos atributos de la relación a normalizar, ¿cuántas claves candidatas tiene la tabla?",
+        "respuestas": [
+          "Dos",
+          "Una",
+          "Tres [v]",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Si en una tabla no hay dependencias funcionales entre sus atributos",
+        "respuestas": [
+          "habrá tantas claves candidatas como columnas tenga la tabla",
+          "esa tabla solo tiene una clave candidata [v]",
+          "eso nunca ocurrirá en modelo relacional: toda tabla tiene al menos una dependencia funcional",
+          ""
+        ]
+      },
+      {
+        "pregunta": "Durante el proceso de normalización de una tabla",
+        "respuestas": [
+          "a veces se generan dos claves primarias en la misma tabla",
+          "es imposible que se generen, en la misma tabla, dos claves ajenas solapadas en atributos [v]",
+          "puede que se generen, en la misma tabla, dos claves ajenas solapadas en atributos (CAj(A)->tabla1; CAj(A,B)->tabla2)",
+          ""
+        ]
+      }
+    ]
+  }
+]
